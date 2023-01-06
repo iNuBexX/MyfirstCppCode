@@ -1,0 +1,10 @@
+
+1234,outdoorcamp,foret,24/5/1999,4,very,20,5,0,0,
+1235,outdoorcamp,foret,24/5/1999,4,very,20,5,0,0,
+1236,outdoorcamp,foret,24/5/1999,4,very,20,5,0,0,
+123,beachparty,hawariya,15/12/2021,3,romance_beach_swimming_fun,120,22,0,0,
+1111,beach_party,hawariya,1/1/1,4,lots_of_fun,12,120,0,0,
+1233,charity,hamamet,24/5/2021,3,charity_camping,120,44,0,0,
+,,,0/0/0,0,,0,0,0,0,
+2256,foret,forest,12/25/199,3,amjaofr,150,40,1,156
+133259,fun,forestbeach,12/21/2021,3,lotsoffun,24,120,2,134,156
